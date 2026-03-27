@@ -1,2 +1,1 @@
-git branch -M main
-git push -u origin main --force
+This repository includes projects related to Spring Core, showcasing the working of beans and the internal behavior of Spring Boot annotations.
